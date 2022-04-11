@@ -42,6 +42,8 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
   - cuál es la utilidad de usar funciones
   - qué es una librería 
 
+### Notebook:
+
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python.ipynb
 
 
