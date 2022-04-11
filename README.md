@@ -20,15 +20,9 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
 *  **0.3 Listas**
   - qué son
   - cuál es su utilidad en la lingüistica computacional
-  - cómo acceder a un elemento en una lista por medio de su índice:
-    - `lista[indice]`
-  - cómo acceder a varios elementos dentro de una lista por medio de sus índices:
-    - `lista[indice_inicial:indice_final]`
-  - qué hacen: 
-    - `sorted(lista)`
-    - `len(lista)`
-    - `.append()`
-    - `.pop()`
+  - cómo acceder a un elemento en una lista por medio de su índice
+  - cómo acceder a varios elementos dentro de una lista por medio de sus índices
+  - qué hacen los métodos `sorted(lista)`, `len(lista)`, `.append()`, `.pop()`
 * **0.4 Condiciones `if`**
   - qué es
   - cómo funciona
@@ -47,6 +41,8 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
   - qué significa que una función "regrese" algo
   - cuál es la utilidad de usar funciones
   - qué es una librería 
+
+
 
 ## 1. Principales técnicas del PLN
 * **1.1 Tokenización** 
