@@ -18,11 +18,11 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
     - `string.lower()`
     - `string.capitalize()`
 *  **0.3 Listas**
-  - qué son
-  - cuál es su utilidad en la lingüistica computacional
-  - cómo acceder a un elemento en una lista por medio de su índice
-  - cómo acceder a varios elementos dentro de una lista por medio de sus índices
-  - qué hacen los métodos `sorted(lista)`, `len(lista)`, `.append()`, `.pop()`
+    - qué son
+    - cuál es su utilidad en la lingüistica computacional
+    - cómo acceder a un elemento en una lista por medio de su índice
+    - cómo acceder a varios elementos dentro de una lista por medio de sus índices
+    - qué hacen los métodos `sorted(lista)`, `len(lista)`, `.append()`, `.pop()`
 * **0.4 Condiciones `if`**
   - qué es
   - cómo funciona
@@ -42,6 +42,7 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
   - cuál es la utilidad de usar funciones
   - qué es una librería 
 
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python.ipynb
 
 
 ## 1. Principales técnicas del PLN
