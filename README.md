@@ -44,7 +44,7 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
 
 ### Notebook:
 
-https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python.ipynb
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python/semana%200%20-%20repaso.ipynb
 
 
 ## 1. Principales técnicas del PLN
