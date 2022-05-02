@@ -68,7 +68,7 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repa
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Principales%20te%CC%81cnicas%20del%20PLN.ipynb
 
-## 2. Exploración y extracción de características lingüísticas de textos usando spaCy
+## 2 y 3. Exploración y extracción de características lingüísticas de textos usando spaCy
 * **2.1 El objeto ‘token’ en spaCy**
   - qué es
   - cómo imprimir tokens en una notebook 
