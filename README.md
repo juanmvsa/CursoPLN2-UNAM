@@ -63,3 +63,31 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repa
   - cómo hacer análisis de dependencias sintácticas con spaCy
   - cómo buscar la descripción de las etiquetas de spaCy
   - Ejercicio: Obtener la lista de dependencias sintácticas de una oración. ¿Qué significa ROOT y qué tiene que ver esa token con las demás ?
+
+
+## 2. Exploración y extracción de características lingüísticas de textos usando spaCy
+
+* **2.1 El objeto ‘token’ en spaCy
+  - qué es
+  - cómo imprimir tokens en una notebook 
+  - qué hace doc.sents
+* **2.2 El método `doc.noun_chunks`
+  - qué regresa este método
+* **2.3 El `span` de spaCy
+  - qué es
+  - cómo obtener los spans de un `doc`
+  - ejemplo de cómo obtener la similitud semántica de dos spans
+* **2.4 Modelos de spaCy
+  - qué son
+  - cómo cargarlos
+  - cómo identificar sus diferencias
+* **2.5 Dependencias sintácticas
+  - qué son
+  - cómo obtener las dependencias de una oración usando una variable `nlp` con un modelo de spaCy precargado
+* **2.6 Extracción de tokens a partir de sus dependencias sintácticas
+  - cómo obtener los tokens por oración
+* **2.7 Ejercicio de repaso: Extracción de características lingüísticas de un texto
+  - cómo crear una variable de pandas, que contenga una tabla de datos en formato `.csv`
+  - cómo hacer una exploración básica de datos
+  - cómo extraer diversas características lingüísticas (partes del discurso, diversidad léxica, dependencias gramaticales, etc.)
+
