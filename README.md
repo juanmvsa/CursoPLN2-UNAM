@@ -90,9 +90,13 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Prin
   - cómo obtener los tokens por oración
 * **2.7 Ejercicio de repaso: Extracción de características lingüísticas de un texto**
   - cómo crear una variable de pandas, que contenga una tabla de datos en formato `.csv`
-  - cómo hacer una exploración básica de datos
-  - cómo extraer diversas características lingüísticas (partes del discurso, diversidad léxica, dependencias gramaticales, etc.)
 
 ### Notebook:
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy/sesiones%202%20y%203%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy.ipynb
+
+## 4. Vectores de palabras
+* **4.1 Introducción**
+* **4.2 Ejemplos**
+
+### Notebook:
