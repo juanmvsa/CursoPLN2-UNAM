@@ -44,7 +44,7 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
 
 ### Notebook:
 
-https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python/semana%200%20-%20repaso.ipynb
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python/sesio%CC%81n%200%20-%20Repaso.ipynb
 
 
 ## 1. Principales técnicas del PLN
@@ -93,3 +93,6 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Prin
   - cómo hacer una exploración básica de datos
   - cómo extraer diversas características lingüísticas (partes del discurso, diversidad léxica, dependencias gramaticales, etc.)
 
+### Notebook:
+
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy/sesiones%202%20y%203%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy.ipynb
