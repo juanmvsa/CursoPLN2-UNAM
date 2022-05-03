@@ -1,4 +1,4 @@
-# Curso "Introducción al Procesamiento Natural con Python - Parte II" - Grupo de Ingeniería Linguística, UNAM
+# Curso "Introducción al Procesamiento del Lenguaje Natural con Python - Parte II" - Grupo de Ingeniería Linguística, UNAM
 Material usado en el curso "Introducción al Procesamiento Natural con Python - Parte II" del Grupo de Ingeniería Lingüistica de la UNAM.
 
 Todas las sesiones se detallan a continuación, y se añaden links para visualizar las notebooks usadas en cada sesión.
