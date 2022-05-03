@@ -95,8 +95,25 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Prin
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy/sesiones%202%20y%203%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy.ipynb
 
-## 4. Vectores de palabras
+## 4.1 Extracción de caracterícticas lingüísticas (parte 2)
+  - cómo obtener sólo ciertas partes del discurso usando una condición `if`
+  - función `obtiene_pos` para obtener sólo los `token.text` de un texto, que esten etiquetados con cierto `token.pos_`
+
+### Notebook:
+
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20Vectores%20de%20palabras/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20(2).ipynb
+
+## 4.2 Vectores de palabras
 * **4.1 Introducción**
+  - qué son
+  - por qué usarlos, y no hacer una simple representación con 1s y 0s
 * **4.2 Ejemplos**
+  - cómo usar la función `similarity` de spaCy para obtener la similitud semántica entre dos tokens
+  - cómo usar la función `similarity` de spaCy para obtener la similitud semántica entre dos tokens de tipo `NOUN`
+* **4.3 Funciones**
+  - función `cargar_datos`
+  - función `elimina_columnas_en_pandas`
+  - función `calcula_estadisticas_basicas`
+  - función `procesamiento_con_spacy`
 
 ### Notebook:
