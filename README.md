@@ -3,6 +3,8 @@ Material usado en el curso "Introducción al Procesamiento Natural con Python - 
 
 Todas las sesiones se detallan a continuación, y se añaden links para visualizar las notebooks usadas en cada sesión.
 
+---
+
 ## 0. Repaso de Python
 * **0.1 Sintaxis de Python**
   - cómo escribir una línea de código
@@ -46,6 +48,7 @@ Todas las sesiones se detallan a continuación, y se añaden links para visualiz
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repaso%20de%20Python/sesio%CC%81n%200%20-%20Repaso.ipynb
 
+---
 
 ## 1. Principales técnicas del PLN
 * **1.1 Tokenización** 
@@ -67,6 +70,8 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%200%20-%20Repa
 ### Notebook:
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Principales%20te%CC%81cnicas%20del%20PLN.ipynb
+
+---
 
 ## 2 y 3. Exploración y extracción de características lingüísticas de textos usando spaCy
 * **2.1 El objeto ‘token’ en spaCy**
@@ -95,6 +100,8 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%201%20-%20Prin
 
 https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy/sesiones%202%20y%203%20-%20Exploracio%CC%81n%20y%20extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20de%20textos%20usando%20spaCy.ipynb
 
+---
+
 ## 4.1 Extracción de caracterícticas lingüísticas (parte 2)
   - cómo obtener sólo ciertas partes del discurso usando una condición `if`
   - función `obtiene_pos` para obtener sólo los `token.text` de un texto, que esten etiquetados con cierto `token.pos_`
@@ -117,3 +124,5 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Ex
   - función `procesamiento_con_spacy`
 
 ### Notebook:
+
+---
