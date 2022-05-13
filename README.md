@@ -121,7 +121,21 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Ex
   - función `cargar_datos`
   - función `elimina_columnas_en_pandas`
   - función `calcula_estadisticas_basicas`
-  - función `procesamiento_con_spacy`
+
+### Notebook:
+
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.2%20-%20Vectores%20de%20palabras.ipynb
+---
+
+## 5. Visualizaciones
+
+
+### Notebook:
+
+---
+
+## 6. Reglas manuales en spaCy, y modelos estadísticos de huggingface
+
 
 ### Notebook:
 
