@@ -131,14 +131,45 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204%20-%20Extr
 ---
 
 ## 5. Visualizaciones
+* **5.1 Carga y prepocesamiento de datos**
+  - cargar modelo de lenguaje a la notebook
+  - importar el modelo en la notebook nueva
+  - cargar datos en la notebook
+  - eliminar columnas en mi variable `datos`
+  -  Borrar todas las filas que tengan el valor en dentro de la columna `language`
+* **5.2 Nubes de palabras simples**
+  - generación de una nube de palabras usando un tuit
+* **5.3 Nubes de palabras con formas**
+  - generación de una nube de palabras usando varios tuits, con la forma de una imagen especificada
+* **5.4 Gráficas de barras**
+  - generación de una gráfica de barras sencilla tomando los cinco tokens de verbos más comunes en el conjunto de datos cargado
+* **5.5 Gráficas de pie**
+  - generación de una gráfica de barras sencilla tomando los cinco tokens de verbos más comunes en el conjunto de datos cargado
+* **5.6 Múltiples gráficas en una imagen**
+  - generación de una imagen con seis gráficas dentro de ella, tomando los cinco tokens (de distintos tipos) más comunes en el conjunto de datos cargado
 
 
 ### Notebook:
 
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%205%20-%20%20Visualizaciones/sesio%CC%81n%205%20-%20%20visualizaciones.ipynb
+
 ---
 
 ## 6. Reglas manuales en spaCy e introducción a modelos estadísticos con `huggingface`
-
+* **6.1 Carga y preprocesamiento de datos**
+  - carga de datos
+  - eliminación de columnas
+  - eliminación de tuits en inglés
+* **6.2 Definir reglas manualmente en el modelo cargado de spaCy^^
+  - funciones para corrección de errores ortográficos manualmente
+  - definir un tipo de token nuevo, que no contenga el modelo de spaCy: token tipo `es_musico`
+  - definir un límite para el tokenizador por oraciones precargado en `doc.sents`   
+* **6.3 Librería `huggingface`**
+  - qué es
+  - ejemplo de análisis de sentimientos usando el `pipeline` precargado en `huggingface`
+  - ejemplo de generación de texto usando un modelo `gpt2` alojado ennlptown/bert-base-multilingual-uncased-sentiment
+* **6.4 Análisis de sentimientos en el conjunto de datos de detección de sexismo**
+  - aálisis de sentimientos de los tuits en los datos del paso `6.1`, usando el modelo `nlptown/bert-base-multilingual-uncased-sentiment` alojado ennlptown/bert-base-multilingual-uncased-sentiment
 
 ### Notebook:
 
