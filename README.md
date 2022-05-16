@@ -108,7 +108,9 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Expl
 
 ### Notebook:
 
-https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20Vectores%20de%20palabras/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20(2).ipynb
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204%20-%20Extraccio%CC%81n%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20vectores%20de%20palabras/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas.ipynb
+
+---
 
 ## 4.2 Vectores de palabras
 * **4.2.1 Introducción**
@@ -124,7 +126,8 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Ex
 
 ### Notebook:
 
-https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.2%20-%20Vectores%20de%20palabras.ipynb
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204%20-%20Extraccio%CC%81n%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20vectores%20de%20palabras/sesio%CC%81n%204.2%20-%20Vectores%20de%20palabras.ipynb
+
 ---
 
 ## 5. Visualizaciones
@@ -134,9 +137,18 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.2%20-%20Ve
 
 ---
 
-## 6. Reglas manuales en spaCy, y modelos estadísticos de huggingface
+## 6. Reglas manuales en spaCy e introducción a modelos estadísticos con `huggingface`
 
 
 ### Notebook:
 
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%206%20-%20Reglas%20manuales%20en%20spaCy%20e%20introduccio%CC%81n%20a%20modelos%20estadi%CC%81sticos%20con%20huggingface.ipynb
+
 ---
+
+## 7. Entrenamiento de modelos de clasificación supervisada, y procesamiento con modelos de aprendizaje profundo en `huggingface``
+
+
+### Notebook:
+
+
