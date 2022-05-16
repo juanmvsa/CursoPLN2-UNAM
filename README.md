@@ -146,7 +146,7 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%206%20-%20Regl
 
 ---
 
-## 7. Entrenamiento de modelos de clasificación supervisada, y procesamiento con modelos de aprendizaje profundo en `huggingface``
+## 7. Entrenamiento de modelos de clasificación supervisada, y procesamiento con modelos de aprendizaje profundo en `huggingface`
 
 
 ### Notebook:
