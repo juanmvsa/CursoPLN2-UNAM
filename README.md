@@ -108,7 +108,9 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%202%20-%20Expl
 
 ### Notebook:
 
-https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20Vectores%20de%20palabras/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%20(2).ipynb
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204%20-%20Extraccio%CC%81n%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20vectores%20de%20palabras/sesio%CC%81n%204.1%20-%20Extraccio%CC%81n%20de%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas.ipynb
+
+---
 
 ## 4.2 Vectores de palabras
 * **4.2.1 Introducción**
@@ -121,8 +123,63 @@ https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204.1%20-%20Ex
   - función `cargar_datos`
   - función `elimina_columnas_en_pandas`
   - función `calcula_estadisticas_basicas`
-  - función `procesamiento_con_spacy`
 
 ### Notebook:
 
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%204%20-%20Extraccio%CC%81n%20caracteri%CC%81sticas%20lingu%CC%88i%CC%81sticas%2C%20y%20vectores%20de%20palabras/sesio%CC%81n%204.2%20-%20Vectores%20de%20palabras.ipynb
+
 ---
+
+## 5. Visualizaciones
+* **5.1 Carga y prepocesamiento de datos**
+  - cargar modelo de lenguaje a la notebook
+  - importar el modelo en la notebook nueva
+  - cargar datos en la notebook
+  - eliminar columnas en mi variable `datos`
+  -  Borrar todas las filas que tengan el valor en dentro de la columna `language`
+* **5.2 Nubes de palabras simples**
+  - generación de una nube de palabras usando un tuit
+* **5.3 Nubes de palabras con formas**
+  - generación de una nube de palabras usando varios tuits, con la forma de una imagen especificada
+* **5.4 Gráficas de barras**
+  - generación de una gráfica de barras sencilla tomando los cinco tokens de verbos más comunes en el conjunto de datos cargado
+* **5.5 Gráficas de pie**
+  - generación de una gráfica de barras sencilla tomando los cinco tokens de verbos más comunes en el conjunto de datos cargado
+* **5.6 Múltiples gráficas en una imagen**
+  - generación de una imagen con seis gráficas dentro de ella, tomando los cinco tokens (de distintos tipos) más comunes en el conjunto de datos cargado
+
+
+### Notebook:
+
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%205%20-%20%20Visualizaciones/sesio%CC%81n%205%20-%20%20visualizaciones.ipynb
+
+---
+
+## 6. Reglas manuales en spaCy e introducción a modelos estadísticos con `huggingface`
+* **6.1 Carga y preprocesamiento de datos**
+  - carga de datos
+  - eliminación de columnas
+  - eliminación de tuits en inglés
+* **6.2 Definir reglas manualmente en el modelo cargado de spaCy^^
+  - funciones para corrección de errores ortográficos manualmente
+  - definir un tipo de token nuevo, que no contenga el modelo de spaCy: token tipo `es_musico`
+  - definir un límite para el tokenizador por oraciones precargado en `doc.sents`   
+* **6.3 Librería `huggingface`**
+  - qué es
+  - ejemplo de análisis de sentimientos usando el `pipeline` precargado en `huggingface`
+  - ejemplo de generación de texto usando un modelo `gpt2` alojado ennlptown/bert-base-multilingual-uncased-sentiment
+* **6.4 Análisis de sentimientos en el conjunto de datos de detección de sexismo**
+  - aálisis de sentimientos de los tuits en los datos del paso `6.1`, usando el modelo `nlptown/bert-base-multilingual-uncased-sentiment` alojado ennlptown/bert-base-multilingual-uncased-sentiment
+
+### Notebook:
+
+https://github.com/juanmvsa/CursoPLN2-UNAM/blob/main/sesio%CC%81n%206%20-%20Reglas%20manuales%20en%20spaCy%20e%20introduccio%CC%81n%20a%20modelos%20estadi%CC%81sticos%20con%20huggingface.ipynb
+
+---
+
+## 7. Entrenamiento de modelos de clasificación supervisada, y procesamiento con modelos de aprendizaje profundo en `huggingface`
+
+
+### Notebook:
+
+
